@@ -1,0 +1,5 @@
+# Ignore Terraform state and hidden files
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.backup
